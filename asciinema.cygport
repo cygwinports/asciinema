@@ -2,7 +2,7 @@ inherit python3-distutils
 
 NAME="asciinema"
 VERSION=1.3.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Utils"
 SUMMARY="Terminal session recorder"
 DESCRIPTION="asciinema is a free and open source solution for recording terminal
